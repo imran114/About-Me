@@ -4,11 +4,9 @@ I'm a Software Test Engineer with a passion for automation testing. I love explo
 
 ## 🚀 About Me
 
-👀 I’m interested in keeping up with the latest technologies related to automation testing, including Data Science and AI.
-
-🌱 I’m currently expanding my knowledge of Selenium WebDriver with Java and exploring new testing frameworks like TestNG and Appium.
-
-💞️ I’m looking to collaborate on Java-based automation projects using Selenium, Appium, and TestNG.
+👀 I have a keen interest in staying updated on cutting-edge automation testing technologies, with a focus on Data Science and AI applications.
+🌱 I am experienced in TestNG and Appium, having honed my skills to excel in mobile app, web, and API testing environments.
+💞️ I am actively seeking opportunities to collaborate on Java-based automation projects that utilize Selenium WebDriver, TestNG, and Appium. My goal is to leverage my expertise to enhance software quality, resolve issues, and contribute to project success. My extensive knowledge of testing methodologies and strong communication skills ensure effective defect documentation and reporting while working closely with stakeholders. I am dedicated to maintaining industry relevance and consistently delivering top-notch results.
 
 
 ## 🏆 Skills
