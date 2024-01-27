@@ -20,6 +20,7 @@ I'm a Software Test Engineer with a passion for automation and manual testing. I
 I.  Selenium WebDriver <br /> 
 II. Appium <br /> 
 III.  TestNG <br /> 
+IV. Extent Reports
        
 ### 2.	Manual Quality Assurance:
 
