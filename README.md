@@ -14,9 +14,9 @@ I'm a Software Test Engineer with a passion for automation and manual testing. I
 ## 🏆 Skills
 
 ### 1.	Automated Testing:
-    	Selenium WebDriver
-    	TestNG
-    	Appium
+    	💞️Selenium WebDriver
+    	💞️TestNG
+    	💞️Appium
     	Java
     	Python
 
