@@ -14,19 +14,23 @@ I'm a Software Test Engineer with a passion for automation and manual testing. I
 
 ## 🏆 Skills
 
-       > **Selenium WebDriver**
-       > **Appium**
-       > **TestNG**
+### 1. Automation
+
+       > Selenium WebDriver
+       > Appium
+       > TestNG
+       
 ### 2.	Manual Quality Assurance:
-    	Analyzing the technical characteristics of equipment systems
-        Evaluating written code to ensure it meets project specifications
-        Developing quality assurance strategies
-        Organizing phased testing with QA engineers
-        Monitoring errors in the system and discussing them with colleagues
-        Assisting with bug detection and fixing
-        Conducting product testing after its presentation
-        Testing and analyzing the results
-        Collaborating on quality assurance within a team
+
+I.   Analyzing the technical characteristics of equipment systems <br /> 
+II.  Evaluating written code to ensure it meets project specifications <br /> 
+III. Developing quality assurance strategies
+IV.  Organizing phased testing with QA engineers
+V.   Monitoring errors in the system and discussing them with colleagues
+VI.  Assisting with bug detection and fixing
+VII. Conducting product testing after its presentation
+VIII. Testing and analyzing the results
+IX.  Collaborating on quality assurance within a team
 
 ### 3. Performance Testing:
        JMeter
