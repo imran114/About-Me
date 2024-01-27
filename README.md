@@ -13,31 +13,31 @@ I'm a Software Test Engineer with a passion for automation and manual testing. I
 
 ## 🏆 Skills
 
-# 1.	Automated Testing:
+### 1.	Automated Testing:
     	Selenium WebDriver
     	TestNG
     	Appium
     	Java
     	Python
 
-# 2.	Manual Quality Assurance:
+### 2.	Manual Quality Assurance:
     	Analyzing the technical characteristics of equipment systems
-    	Evaluating written code to ensure it meets project specifications
-    	Developing quality assurance strategies
-    	Organizing phased testing with QA engineers
-    	Monitoring errors in the system and discussing them with colleagues
-    	Assisting with bug detection and fixing
-    	Conducting product testing after its presentation
-    	Testing and analyzing the results
-    	Collaborating on quality assurance within a team
+        Evaluating written code to ensure it meets project specifications
+        Developing quality assurance strategies
+        Organizing phased testing with QA engineers
+        Monitoring errors in the system and discussing them with colleagues
+        Assisting with bug detection and fixing
+        Conducting product testing after its presentation
+        Testing and analyzing the results
+        Collaborating on quality assurance within a team
 
-# 3. Performance Testing:
-    	JMeter
-    	Jira
-    	Postman
-    	Stress Testing
+### 3. Performance Testing:
+       JMeter
+       Jira
+       Postman
+       Stress Testing
 
-# 4.	Additional Skills:
+### 4.	Additional Skills:
     	Web Scraping
     	Data Science
 
