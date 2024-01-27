@@ -4,6 +4,7 @@ I'm a Software Test Engineer with a passion for automation and manual testing. I
 
 ## 🚀 About Me
 
+
 👀 I have a keen interest in staying updated on cutting-edge automation testing technologies, with a focus on Data Science and AI applications.
 
 🌱 I am experienced in TestNG and Appium, having honed my skills to excel in mobile app, web, and API testing environments. Additionally, I have a strong background in manual quality assurance, where I analyze the technical characteristics of equipment systems, evaluate written code to ensure it meets project specifications, and develop quality assurance strategies. My experience includes organizing phased testing with QA engineers, monitoring errors in the system, collaborating on bug detection and fixing, and conducting product testing after its presentation.
@@ -13,7 +14,7 @@ I'm a Software Test Engineer with a passion for automation and manual testing. I
 
 ## 🏆 Skills
 
-### 1.	Automated Testing:
+### 1.	Automated Testing
         Seleertwete
     	Selenium WebDriver
     	TestNG
