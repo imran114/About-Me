@@ -11,36 +11,35 @@ I'm a Software Test Engineer with a passion for automation and manual testing. I
 
 💞️ I am actively seeking opportunities to collaborate on Java-based automation projects that utilize Selenium WebDriver, TestNG, and Appium. My goal is to leverage my expertise to enhance software quality, resolve issues, and contribute to project success. My extensive knowledge of testing methodologies and strong communication skills ensure effective defect documentation and reporting while working closely with stakeholders. I am dedicated to maintaining industry relevance and consistently delivering top-notch results.
 
+#### Note: You can check my existing work in the corresponding repositories.
 
 ## 🏆 Skills
 
 ### 1. Automation
 
-       > Selenium WebDriver
-       > Appium
-       > TestNG
+I.  Selenium WebDriver <br /> 
+II. Appium <br /> 
+III.  TestNG <br /> 
        
 ### 2.	Manual Quality Assurance:
 
 I.   Analyzing the technical characteristics of equipment systems <br /> 
-II.  Evaluating written code to ensure it meets project specifications <br /> 
-III. Developing quality assurance strategies
-IV.  Organizing phased testing with QA engineers
-V.   Monitoring errors in the system and discussing them with colleagues
-VI.  Assisting with bug detection and fixing
-VII. Conducting product testing after its presentation
-VIII. Testing and analyzing the results
-IX.  Collaborating on quality assurance within a team
+II.  Developing quality assurance strategies <br /> 
+III. Organizing phased testing with QA engineers<br />IV.  Assisting with bug detection and fixing <br /> 
+V.   Conducting product testing after its presentation <br /> 
+VI.  Testing and analyzing the results <br /> 
+
+
 
 ### 3. Performance Testing:
-       JMeter
-       Jira
-       Postman
-       Stress Testing
+I. JMeter <br /> 
+II. Jira <br /> 
+III. Postman <br /> 
+IV. Stress Testing <br /> 
 
 ### 4.	Additional Skills:
-    	Web Scraping
-    	Data Science
+I. Web Scraping <br /> 
+II. Data Science
 
 
 Let's connect and collaborate on exciting projects!
